@@ -45,23 +45,6 @@ $ cat now.md
 
 工具应该懂人,而不是人迁就工具。写代码之余看看盘 —— 纪律比运气重要。
 
-<details>
-<summary><b>🌒 来时路 / The road here</b>(2019 → 2026,点开看一部进化史)</summary>
-
-```
-2019  WangYiMusicz        仿网易云练手(vue)
-2020  jd_seckill          抢茅台脚本(对,就是那个)
-2021  vue-h5-template     模板工程师时期
-2022  v3_ts_music         第三次重写网易云(vue3+ts)
-2023  ChatGPT-Next-Web    第一次给 AI 套壳
-2024  kickstart.nvim      折腾编辑器
-2025  AI-Codereview-GIt   开始让 AI 干活
-2026  multica / zcode-acp 给 AI Agent 造基建
-```
-
-都在,只是归档了。[→ 仓库列表](https://github.com/lianxin255?tab=repositories)
-</details>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=lianxin255&show_icons=true&theme=dark&hide_border=true" alt="stats" />
