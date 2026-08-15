@@ -51,7 +51,10 @@ $ cat now.md
 <img src="https://github-readme-streak-stats.herokuapp.com?user=lianxin255&theme=dark&hide_border=true" alt="streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianxin255&layout=compact&theme=dark&hide_border=true" alt="langs" />
 
-![snake](https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake](https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;" />
+</picture>
 
 </div>
