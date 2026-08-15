@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&random=false&width=720&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF%E8%BF%9E%E6%98%95+/%+Hi%2C+I'm+Lianxin;Backend+%E2%86%92+Full-stack+%E2%86%92+AI+Agent" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=lianxin&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Backend%20%C2%B7%20Web%20%C2%B7%20AI%20Agents&descAlignY=62&descSize=18" />
 
-**后端 & Web 开发者，现在全部押注 AI Agent。**
-**Backend & web dev. Now all-in on AI agents.**
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AF%E8%BF%9E%E6%98%95+%2F+Hi%2C+I'm+Lianxin;Backend+%E2%86%92+Full-stack+%E2%86%92+AI+Agent;Wiring+ZCode+into+ACP+runtimes;%E8%83%BD%E8%B7%91%E4%B8%8D%E7%AE%97%E5%AE%8C%E6%88%90%EF%BC%8C%E5%A5%BD%E7%94%A8%E6%89%8D%E7%AE%97)](https://git.io/typing-svg)
 
-`GLM` · `Java` · `Go` · `TypeScript` · `Vue` · `Docker`
+  <p align="center">
+    <a href="https://github.com/lianxin255"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:lianxin255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=lianxin255&style=for-the-badge&color=7C3AED&label=VIEWS" alt="Profile views" />
+  </p>
 
 </div>
 
@@ -14,47 +17,65 @@ $ whoami
 lianxin — 不是围观 AI 的人。
 
 $ cat now.md
-[PR] multica      #6987  zcode as an ACP runtime family
-[PR] zcode-acp    #43    MCP servers forwarding
-[PR] zcode-acp    #44    thought vocabulary, honest per-model
-[PR] AI-ANSWER    #5     题库系统 + 答题策略 (6 commits)
+[PR] paseo        #3374  ZCode 进 ACP provider catalog
+[PR] multica      #6987  ZCode 作为 ACP runtime family
+[PR] zcode-acp    #47    pending-session 模型从已启用 provider 推导
+[PR] AI-ANSWER    #5     题库系统 + 三种答题策略
 ```
 
-### 🔨 在途 / In flight
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" />
+  In Flight
+</h2>
 
 把 ZCode 接进一切能接的地方 —— 全部有真机验证：
 
 | | 项目 | 干了什么 |
 |---|---|---|
-| 🚀 | [multica](https://github.com/multica-ai/multica/pull/6987) | ZCode 运行时家族:ACP 后端 + 流式 + 优雅取消 + 思考等级 |
-| 🔌 | [zcode-acp #43](https://github.com/william0wang/zcode-acp/pull/43) | session/new 的 mcpServers 转发到运行时(之前被静默丢弃) |
-| 🧠 | [zcode-acp #44](https://github.com/william0wang/zcode-acp/pull/44) | 思考词表按模型如实广播,不再虚构 |
-| 📝 | [AI-ANSWER-ASSISTANT](https://github.com/rehuan/AI-ANSWER-ASSISTANT/pull/5) | 题库系统、三种答题策略、模型配置导入导出、站点模板 |
+| 🚀 | [paseo #3374](https://github.com/getpaseo/paseo/pull/3374) | ZCode 进 ACP provider catalog |
+| ⚙️ | [multica #6987](https://github.com/multica-ai/multica/pull/6987) | ZCode 运行时家族：ACP 后端 + 流式 + 优雅取消 |
+| 🔌 | [zcode-acp](https://github.com/william0wang/zcode-acp/pulls/lianxin255) | MCP 转发、思考词表按模型如实广播、session mode |
+| 📝 | [AI-ANSWER-ASSISTANT #5](https://github.com/rehuan/AI-ANSWER-ASSISTANT/pull/5) | 题库、三种答题策略、模型配置导入导出 |
 
-### 🛠 自用魔改 / Forks I run my patches on
+自用、带着补丁跑：[Vibe-Research](https://github.com/lianxin255/Vibe-Research) · [ai-goofish-monitor](https://github.com/lianxin255/ai-goofish-monitor) · [OpenClawInstaller](https://github.com/lianxin255/OpenClawInstaller)
 
-- 📈 [Vibe-Research](https://github.com/lianxin255/Vibe-Research) — 个人投研 Agent(A股/美股/港股,每日复盘),带着自己的补丁跑
-- 👁️ [ai-goofish-monitor](https://github.com/lianxin255/ai-goofish-monitor) — AI 过滤的闲鱼监控
-- 🔍 [AI-Codereview-GIt](https://github.com/lianxin255/AI-Codereview-GIt) — 大模型驱动的 GitLab 自动代码审查
-- 🚀 [OpenClawInstaller](https://github.com/lianxin255/OpenClawInstaller) — OpenClaw 一键部署,带自己的修改
-
-### 🌒 信条 / Credo
-
-> 能跑不算完成,**好用才算。**
-> "It runs" doesn't count. **"It works well" does.**
-
-工具应该懂人,而不是人迁就工具。写代码之余看看盘 —— 纪律比运气重要。
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" />
+  Skills & Tools
+</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lianxin255&show_icons=true&theme=dark&hide_border=true" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lianxin255&theme=dark&hide_border=true" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianxin255&layout=compact&theme=dark&hide_border=true" alt="langs" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://cdn.jsdelivr.net/gh/lianxin255/lianxin255@output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;" />
-</picture>
-
+  <img src="https://skillicons.dev/icons?i=java,go,ts,vue,js,html,css,py,docker,linux,git,github,vscode,md,nodejs&perline=8" />
 </div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" />
+  Contributions
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" />
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lianxin255&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianxin255&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lianxin255&theme=tokyonight" width="33%" />
+</div>
+
+<h2 align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20px" width="100%" />
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianxin255/lianxin255/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianxin255/lianxin255/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lianxin255/lianxin255/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lianxin255&theme=tokyonight" width="100%" />
+</div>
+
+<p align="center">
+  <i>能跑不算完成，好用才算。</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
