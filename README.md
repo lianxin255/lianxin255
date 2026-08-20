@@ -44,8 +44,6 @@
 <div align="center">
   <img src="./profile/stats.svg" width="48%" alt="stats" />
   <img src="./profile/streak.svg" width="48%" alt="streak" />
-  <br/>
-  <img src="./profile/top-langs.svg" width="60%" alt="top languages" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAC1,50:E2F0CB,100:B5EAD7&height=100&section=footer" width="100%" alt="" />
