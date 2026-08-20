@@ -42,11 +42,10 @@
 ### ☁️ 足迹
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lianxin255&theme=vue" width="32%" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lianxin255&theme=vue" width="32%" alt="languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lianxin255&theme=vue" width="32%" alt="commits" />
+  <img src="./profile/stats.svg" width="48%" alt="stats" />
+  <img src="./profile/streak.svg" width="48%" alt="streak" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lianxin255&theme=vue" width="100%" alt="activity" />
+  <img src="./profile/top-langs.svg" width="60%" alt="top languages" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAC1,50:E2F0CB,100:B5EAD7&height=100&section=footer" width="100%" alt="" />
